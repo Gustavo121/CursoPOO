@@ -1,0 +1,5 @@
+C:\Users\Gustavo Gouvêa\source\repos\CursoPOO\CursoPOO\obj\Debug\net7.0\CursoPOO.csproj.AssemblyReference.cache
+C:\Users\Gustavo Gouvêa\source\repos\CursoPOO\CursoPOO\obj\Debug\net7.0\CursoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Gouvêa\source\repos\CursoPOO\CursoPOO\obj\Debug\net7.0\CursoPOO.AssemblyInfoInputs.cache
+C:\Users\Gustavo Gouvêa\source\repos\CursoPOO\CursoPOO\obj\Debug\net7.0\CursoPOO.AssemblyInfo.cs
+C:\Users\Gustavo Gouvêa\source\repos\CursoPOO\CursoPOO\obj\Debug\net7.0\CursoPOO.csproj.CoreCompileInputs.cache

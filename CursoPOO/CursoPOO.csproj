@@ -7,4 +7,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="AULA.md" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="AULA.md" />
+  </ItemGroup>
+
 </Project>

@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
+# Os 4 pilares da POO (Programação Orientada ao Objeto)
 
-namespace CursoPOO
-{
-    internal class Class1
-    {
-    }
-}
+## Abstração
+## Encapsulamento
+## Herança
+## Polimorfismo
