@@ -21,5 +21,15 @@
         {
             _quantidade = 1;
         }
+
+        public void Teste(string p1, int p2)
+        {
+            // codigo
+        }
+
+        public string Teste2()
+        {
+            return Nome;
+        }
     }
 }

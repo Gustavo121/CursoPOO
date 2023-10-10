@@ -13,3 +13,5 @@
 CarrinhoItem bola = new CarrinhoItem();
 bola.Nome = "Bola de Futebol";
 bola.Quantidade = 0;
+
+Console.ReadLine();
