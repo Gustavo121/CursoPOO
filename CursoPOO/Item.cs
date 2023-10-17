@@ -2,7 +2,7 @@
 
 namespace CursoPOO
 {
-    internal class Item
+    public class Item
     {
         private const int PADRAO_QUANTIDADE = 2;
         public string Nome { get; set; }
@@ -31,6 +31,13 @@ namespace CursoPOO
                 }               
             }
         }
+
+        public decimal Total
+        {
+           get { return Preco * Quantidade; }
+        }
+
+        public string TotalFormatado => Total.ToString("C"); // Currency
 
         public Item()
         {
